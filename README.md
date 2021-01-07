@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning Javascript, Trying to figure out C#
 
-### 📫 How to reach me: My Discord {Denty Mods}(LxS)#0524 | My Discord server https://discord.gg/Z9tQDf3
+### 📫 How to reach me: My Discord {Denty}(TxR)#0524 | My Discord server https://discord.gg/Z9tQDf3
 
 ### ⚡ Fun fact: I'm 14
 
