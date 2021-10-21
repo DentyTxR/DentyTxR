@@ -8,7 +8,7 @@
 
 - As you can see by my pfp I'm a weeb, Favorite animes are Sword Art Online, Zero no Tsukaima, Ao no Exorcist, Ano Natsu de Matteru & like 200+ more kek.
 
-- I wouldn't call myself a professional coder since I have bad memory and forget some coding stuff alot.
+- I wouldn't call myself a professional coder since I have bad memory and forget some coding stuff alot, I know basic JS and simple frontend web
 
 
 #### My projects:
