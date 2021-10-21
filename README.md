@@ -1,1 +1,1 @@
-### Eee, I'm Denty aka DentyTxR/Venty  <span style="font-size:smaller;">sus</span>
+### Eee, I'm Denty aka DentyTxR/Venty <sup>sus</sup>
