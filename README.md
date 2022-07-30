@@ -2,13 +2,7 @@
 
 <br />
 
-### About me:
 
-- I'm an epic gamer, Favorite games are Destiny 2, SCP:SL, Valheim (I really need to play this one more).
-
-- As you can see by my pfp I'm a weeb, Favorite animes are Sword Art Online, Zero no Tsukaima, Ao no Exorcist, Ano Natsu de Matteru & like 200+ more kek.
-
-- I wouldn't call myself a professional coder since I have bad memory and forget some coding stuff alot, I know basic JS and simple frontend web
 
 
 #### My projects:
