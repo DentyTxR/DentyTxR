@@ -9,7 +9,7 @@ Hi, Im Denty </h1>
 
 <h2 align="left"">Experience</h2>
 <p>
-  .NET - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
+  Learning - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
 </p>
 
 
