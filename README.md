@@ -7,5 +7,7 @@ Hi, Im Denty
   ![](https://komarev.com/ghpvc/?username=DentyTxr&color=blueviolet)
 
 ```diff
-
++ er
+= er
+- er
 ```
