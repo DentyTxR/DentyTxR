@@ -7,12 +7,12 @@ Hi, Im Denty </h1>
 
 <br>
 
-<h2 align="left" style="display: inline-block; width: 30%;">Experience</h2>
-<p style="display: inline-block; width: 68%; vertical-align: top;">
+<h2 align="left"">Experience</h2>
+<p>
   .NET - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
 </p>
 
-<div style="display: inline-block; width: 68%; vertical-align: top; margin-left: 30%;">
+
   
 ```diff
 @@ History @@
