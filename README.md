@@ -1,11 +1,11 @@
 <h1 align="center">
 Hi, Im Denty </h1>
 
-<br>
-
 <p align=center>
-  <img src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="80" width="80" />
+  <img src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="120" width="120" />
 </p>
+
+<br>
 
 <h2 align="center"> Experience</h2>
 
