@@ -25,11 +25,16 @@ Hi, Im Denty </h1>
 
   
 ```diff
-@@ History @@
-+ Added line 1
-+ Added line 2
-- Removed line 1
-- Removed line 2
- unchanged line 1
- unchanged line 2
+@@Cool Stuff About Me@@
++ C# Developer (Getting into web, Mainly making game plugins/mods)
++ Ex-SCPSL tech assistant & techsupport public chat era
++ Addicted to Destiny 2
++ Server manager and developer of D-Boys R Us
++ Founder of the first SCP:SL FAQ website (scpsl-faq.com its a archived project now)
++ Creator of SCP:SL ServerHosts Discord
++ My name is on a wall in 079's room :)
++ Started learning coding at 12 with javascript (worst decision of my life)
++ Started off with making discord bots
+- Verified bot developer (Discord nuked my account rip badge)
+
 ```
