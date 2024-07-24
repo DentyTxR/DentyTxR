@@ -4,9 +4,7 @@ Hi, Im Denty
   </h1>
 <br/>
 
-<h1 align="center">
-  ![erm](https://komarev.com/ghpvc/?username=DentyTxr&color=blueviolet)
-</h1>
+  ![](https://komarev.com/ghpvc/?username=DentyTxr&color=blueviolet)
 
 ```diff
 
