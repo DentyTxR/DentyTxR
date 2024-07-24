@@ -10,7 +10,7 @@ Hi, Im Denty </h1>
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <h2 align="center">Experience</h2>
-    <p>
+    <p align="center">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" />
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
       <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
