@@ -36,5 +36,5 @@ Hi, Im Denty </h1>
 + Started learning coding at 12 with javascript (worst decision of my life)
 + Started off with making discord bots
 - Verified bot developer (Discord nuked my account rip badge)
-
+A lot of this stuff I did was when I was 14 but im no longer in my prime :(
 ```
