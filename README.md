@@ -1,11 +1,11 @@
 <h1 align="center">
-Hi, Im Denty 
-  <sub><img src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="60" width="60"></sub>
-  </h1>
+Hi, Im Denty </h1>
 
 <br>
 
-<h2 Experience</h2>
+<img src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="80" width="80">
+
+<h2 align="center" Experience</h2>
 
 <br>
 
@@ -15,5 +15,14 @@ Hi, Im Denty
 </p>
 
 ```diff
-@@test@@
+@@Histroy@@
++
++
++
++
++
++
++
++
++
 ```
