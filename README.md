@@ -3,9 +3,9 @@ Hi, Im Denty </h1>
 
 <br>
 
-<img src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="80" width="80">
+<img align="center" src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="80" width="80">
 
-<h2 align="center" Experience</h2>
+<h2 align="center"> Experience</h2>
 
 <br>
 
@@ -21,8 +21,6 @@ Hi, Im Denty </h1>
 +
 +
 +
-+
-+
-+
+
 +
 ```
