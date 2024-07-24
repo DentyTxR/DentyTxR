@@ -7,15 +7,13 @@ Hi, Im Denty </h1>
 
 <br>
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <h2 align="left">Experience</h2>
-    <p align="left">
-      .NET - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <pre>
+<h2 align="left" style="display: inline-block; width: 30%;">Experience</h2>
+<p style="display: inline-block; width: 68%; vertical-align: top;">
+  .NET - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
+</p>
+
+<div style="display: inline-block; width: 68%; vertical-align: top; margin-left: 30%;">
+  
 ```diff
 @@ History @@
 + Added line 1
@@ -24,6 +22,4 @@ Hi, Im Denty </h1>
 - Removed line 2
  unchanged line 1
  unchanged line 2
-```</pre>
-  </div>
-</div>
+```
