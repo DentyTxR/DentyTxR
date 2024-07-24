@@ -7,13 +7,15 @@ Hi, Im Denty </h1>
 
 <br>
 
-<h2 align="left"">Experience</h2>
-<p>
-  
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
-  
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <h2 align="left">Experience</h2>
+    <p>
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
+      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    </p>
+  </div>
+</div>
 
 
   
