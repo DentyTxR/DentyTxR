@@ -10,19 +10,20 @@ Hi, Im Denty </h1>
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <h2 align="left">Experience</h2>
-    <p>
+    <p align="left">
       .NET - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
     </p>
   </div>
   <div style="flex: 1;">
-    ```diff
-    @@ History @@
-    +
-    +
-    +
-    +
-    +
-    +
-    ```
+    <pre>
+```diff
+@@ History @@
++ Added line 1
++ Added line 2
+- Removed line 1
+- Removed line 2
+ unchanged line 1
+ unchanged line 2
+```</pre>
   </div>
 </div>
