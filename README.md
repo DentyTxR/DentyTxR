@@ -4,7 +4,7 @@ Hi, Im Denty
   </h1>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=DentyTxr&color=blueviolet)
+<center>![](https://komarev.com/ghpvc/?username=DentyTxr&color=blueviolet)</center>
 
 ```diff
 
