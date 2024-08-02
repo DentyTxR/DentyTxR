@@ -26,7 +26,7 @@ Hi, Im Denty </h1>
   
 ```diff
 @@Cool Stuff About Me@@
-+ C# Developer (Getting into web, Mainly making game plugins/mods)
++ Self Taught C# Developer (Getting into web, Mainly making game plugins/mods)
 + Ex-SCPSL tech assistant & techsupport public chat era
 + Addicted to Destiny 2
 + Server manager and developer of D-Boys R Us
