@@ -1,9 +1,6 @@
 <h1 align="center">
 Hi, Im Denty </h1>
 
-<p align=center>
-  <img src="https://cdn3.emoji.gg/emojis/8807-sao-alicesip.png" height="140" width="140" />
-</p>
 
 <br>
 
@@ -27,14 +24,11 @@ Hi, Im Denty </h1>
 ```diff
 @@Cool Stuff About Me@@
 + Self Taught C# Developer (Getting into web, Mainly making game plugins/mods)
-+ Ex-SCPSL tech assistant & techsupport public chat era
++ TS @ Northwood Studios
 + Addicted to Destiny 2
 + Server manager and developer of D-Boys R Us
-+ Founder of the first SCP:SL FAQ website (scpsl-faq.com its a archived project now)
-+ Creator of SCP:SL ServerHosts Discord
 + My name is on a wall in 079's room :)
 + Started learning coding at 12 with javascript (worst decision of my life)
 + Started off with making discord bots
 - Verified bot developer (Discord nuked my account rip badge)
-A lot of this stuff I did was when I was 14 but im no longer in my prime :(
 ```
