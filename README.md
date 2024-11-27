@@ -23,12 +23,10 @@ Hi, Im Denty </h1>
   
 ```diff
 @@Cool Stuff About Me@@
-+ Self Taught C# Developer (Getting into web, Mainly making game plugins/mods)
++ Self Taught C# Developer (getting into fullstack, Mainly making game plugins/mods)
 + TS @ Northwood Studios
 + Addicted to Destiny 2
 + Server manager and developer of D-Boys R Us
-+ My name is on a wall in 079's room :)
 + Started learning coding at 12 with javascript (worst decision of my life)
 + Started off with making discord bots
-- Verified bot developer (Discord nuked my account rip badge)
 ```
