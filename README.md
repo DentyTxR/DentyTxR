@@ -22,9 +22,9 @@ Hi, Im Denty </h1>
 
   
 ```diff
-@@Cool Stuff About Me@@
+@@About Me@@
 + Self Taught C# Developer (getting into fullstack, Mainly making game plugins/mods)
-+ TS @ Northwood Studios
++ Technical Support Supervisor & QA @ Northwood Studios
 + Addicted to Destiny 2
 + Server manager and developer of D-Boys R Us
 + Started learning coding at 12 with javascript (worst decision of my life)
